@@ -1,33 +1,60 @@
 # Olá, eu sou Victor Silva 👋
 
+## 🔐 Cybersecurity Analyst | SOC | Blue Team
+
 🎓 Estudante de Engenharia de Software
 
-🔐 Focado em:
-- SOC
-- Blue Team
-- SIEM
-- Monitoramento de Segurança
-- Resposta a Incidentes
+📍 Ribeirão Preto - SP
 
-📜 Certificações
+---
+
+## 🚀 Sobre mim
+
+Sou estudante de Engenharia de Software com foco em Cibersegurança, SOC, Monitoramento de Segurança e Resposta a Incidentes.
+
+Atualmente desenvolvo laboratórios práticos para simular ambientes corporativos e hospitalares, aplicando monitoramento, auditoria, análise de logs, SQL Security e automação com Python.
+
+---
+
+## 📜 Certificações
+
 - Google Cybersecurity Professional Certificate
 - Cisco Networking Basics
 
-🛠️ Tecnologias
+---
+
+## 🛠️ Tecnologias
+
 - Python
 - PostgreSQL
 - Linux
 - Git
 - Wazuh
+- SQL
+- Active Directory
 
-🚀 Projetos
-### Hospital Security Monitoring Lab
-Laboratório de segurança para monitoramento, auditoria e análise de eventos em ambiente hospitalar.
+---
 
-### Safentry
+## 📂 Projetos
+
+### 🏥 Hospital Security Monitoring Lab
+
+Laboratório de segurança focado em:
+
+- Auditoria de banco de dados
+- SQL Injection
+- Controle de acesso
+- Monitoramento de eventos
+- Análise de logs
+
+### 🛡️ Safentry
+
 Plataforma SaaS de monitoramento e conformidade LGPD para clínicas médicas.
 
-📫 Contato
+---
+
+## 📫 Contato
+
 LinkedIn:
 https://linkedin.com/in/victor-cyber
 
