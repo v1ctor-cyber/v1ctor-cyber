@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou Victor Silva 👋
 
-<!--
-**v1ctor-cyber/v1ctor-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+🔐 Focado em:
+- SOC
+- Blue Team
+- SIEM
+- Monitoramento de Segurança
+- Resposta a Incidentes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 Certificações
+- Google Cybersecurity Professional Certificate
+- Cisco Networking Basics
+
+🛠️ Tecnologias
+- Python
+- PostgreSQL
+- Linux
+- Git
+- Wazuh
+
+🚀 Projetos
+### Hospital Security Monitoring Lab
+Laboratório de segurança para monitoramento, auditoria e análise de eventos em ambiente hospitalar.
+
+### Safentry
+Plataforma SaaS de monitoramento e conformidade LGPD para clínicas médicas.
+
+📫 Contato
+LinkedIn:
+https://linkedin.com/in/victor-cyber
+
+GitHub:
+https://github.com/v1ctor-cyber
